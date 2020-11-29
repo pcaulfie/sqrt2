@@ -19,8 +19,9 @@ The assessment consistes of four separate tasks, which are detailed in my jupyte
 
 * Task #1: I have written a Python function called *sqrt2* that calculates and prints to the screen the square root of 2 to 100 decimal places. The function does not depend on any module from the standard python library or other external library. My submission includes details of my research and includes references and a description of my algorithm.
 
-* Task #2: In this task, I created an algorithm using scipy.stats package to verify the value of the Chi-squared Test. The Chi-squared test for independence is a statistical hypothesis test like a t-test. It is used to analyse whether two categorical variables are independent. The Wikipedia article gives the table below as an example [1], stating the Chi-squared value based on it is approximately 24.6. 
-![Wiki table](images/table.png)
+* Task #2: In this task, I created an algorithm using scipy.stats package to verify the value of the Chi-squared Test found in the Wikipedia article [1]. The Chi-squared test for independence is a statistical hypothesis test like a t-test. It is used to analyse whether two categorical variables are independent. The Wikipedia article gives the table below as an example [1], stating the Chi-squared value based on it is approximately 24.6 . 
+
+  ![Wiki table](https://github.com/pcaulfie/sqrt2/blob/main/images/table.PNG)
 
 
 * Task #3: The purpose of this task is to
