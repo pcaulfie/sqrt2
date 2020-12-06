@@ -1,6 +1,14 @@
-# Tasks Assessment 2020
+# Assignment Name: Tasks 2020 
+## Course: Machine Learning and Statistics
 
-## Machine Learning and Statistics
+* Student Name: Paul Caulfield
+* Student No: G00376342
+
+* Lecturer: Ian McLoughlin
+
+An assignment submitted in part fulfilment of the requirements of the Higher Diploma in Science - Data Analytics 2020-2021, Galway Mayo Institute of Technology.
+  * Submitted: 18th December 2020
+
 
 ## Introduction
 This repository contains my submission for the Tasks assessment for Machine Learning and Statistics in 2020.
@@ -31,7 +39,7 @@ calculation but in the STDEV.S calculation the division is by len(x)-1 rather th
   1. In the second part of this task, I proceed to use numpy to perform a simulation, to demonstrate that the STDEV.S calculation is a better estimate for the standard
 deviation of a population when performed on a sample. I explain how I arrived at this conclusion.
 
-* Task 4: Using scikit-learn, I apply k-means clustering to Fisher’s famous Iris data set. IexplaiN how my code works and discuss it's accuracy. I go on to outline how my model could be used to make predictions of species of iris.
+* Task 4: Using scikit-learn, I apply k-means clustering to Fisher’s famous Iris data set. I explain how my code works and discuss it's accuracy. I go on to outline how my model could be used to make predictions of species of iris.
 
 ## Installation
 
