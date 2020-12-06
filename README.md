@@ -6,7 +6,7 @@
 
 * Lecturer: Ian McLoughlin
 
-An assignment submitted in part fulfilment of the requirements of the Higher Diploma in Science - Data Analytics 2020-2021, Galway Mayo Institute of Technology.
+An assignment submitted in part fulfilment of the requirements of the Higher Diploma in Science - Data Analytics: 2020-2021, Galway Mayo Institute of Technology.
   * Submitted: 18th December 2020
 
 
