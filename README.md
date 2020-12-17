@@ -48,15 +48,15 @@ The assessment consistes of four separate tasks, which are detailed in my jupyte
 1. Launch Cmder
 1. Usine cmder prompt, create a folder where you want to clone the repository - for example *cd folder/to/clone-into/*
 1. Specify URL of the repository you want to clone using the following command: 
-* *git clone https://github.com/pcaulfie/sqrt2.git*
-* This will download the project to a folder named after the Git repository ("sqrt2" in this case). 
-* If you want a different folder name, simply specify it as the last parameter: *git clone https://github.com/pcaulfie/sqrt2.git other-name*
+ * *git clone https://github.com/pcaulfie/sqrt2.git*
+ * This will download the project to a folder named after the Git repository ("sqrt2" in this case). 
+ * If you want a different folder name, simply specify it as the last parameter: *git clone https://github.com/pcaulfie/sqrt2.git other-name*
 
 - How to run the Jupyter Notebook:
 1. Go to folder where you cloned the repository e.g. *folder/to/clone-into/*
 1. Enter the following command at the cmder prompt: *jupyter notebook*
-* This will open the jupyter notebook in your browser
-* Alternatively, copy and paste a URL which will be shown in cmder it will look like this: http://localhost:8888/?token=e0dd2199f102d064481eb587953e5d77adadf4fc3a7a29
+ * This will open the jupyter notebook in your browser
+ * Alternatively, copy and paste a URL which will be shown in cmder it will look like this: http://localhost:8888/?token=e0dd2199f102d064481eb587953e5d77adadf4fc3a7a29
 
 ### References
 [1] Wikipedia contributors, “Chi-squared test — Wikipedia, the free encyclopedia,”
