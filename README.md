@@ -43,7 +43,7 @@ The assessment consists of four separate tasks, which are detailed in my jupyter
 ### How to Clone This Repository
 
 1. Launch Cmder
-1. Usine cmder prompt, create a folder where you want to clone the repository - for example *cd folder/to/clone-into/*
+1. Using cmder prompt, create a folder where you want to clone the repository - for example *cd folder/to/clone-into/*
 1. Specify URL of the repository you want to clone using the following command: 
  * *git clone https://github.com/pcaulfie/sqrt2.git*
  * This will download the project to a folder named after the Git repository ("sqrt2" in this case). 
