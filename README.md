@@ -56,6 +56,7 @@ This will download the project to a folder named after the Git repository ("sqrt
 1. Go to folder where you cloned the repository e.g. *folder/to/clone-into/*
 1. Enter the following command at the cmder prompt: *jupyter notebook*
 This will open the jupyter notebook in your browser, alternatively, copy and paste a URL which will be shown in cmder it will look like this: http://localhost:8888/?token=e0dd2199f102d064481eb587953e5d77adadf4fc3a7a29
+
 ### References
 [1] Wikipedia contributors, “Chi-squared test — Wikipedia, the free encyclopedia,”
 2020, [Online; accessed 1-November-2020]. [Online]. Available: https://en.wikipedia.
