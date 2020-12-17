@@ -34,7 +34,7 @@ The assessment consistes of four separate tasks, which are detailed in my jupyte
 
 * Task 3: The purpose of this task is to research excel standard deviation functions and explain which function gives a better estimate for the standard deviation of a population when performed on a sample.
 
-* Task 4: Using scikit-learn, I apply k-means clustering to Fisher’s famous Iris data set. I explain how my code works and discuss it's accuracy. I go on to outline how my model could be used to make predictions of species of iris.
+* Task 4: The objective of this task is to apply k-means clustering to Fisher’s famous Iris data set, explain the code works and outline how the model could be used to make predictions of species of iris.
 
 ## Installation
 
