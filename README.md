@@ -23,11 +23,11 @@ The repository contains the following:
 1. Readme
 
 ## Summary
-The assessment consistes of four separate tasks, which are detailed in my jupyter notebook. The jupyter notebook contains 4 sections, each section details one of the four tasks which make up the assessment. Below is a brief outline of each of the tasks:
+The assessment consists of four separate tasks, which are detailed in my jupyter notebook. The jupyter notebook contains 4 sections, each section details one of the four tasks which make up the assessment. Below is a brief outline of each of the tasks:
 
 * Task 1: The objective of this task is to write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. The function should not depend on any module from the standard python library or other external library.
 
-* Task 2: Using scipy.stats package, I verify the value of the Chi-squared Test published in a Wikipedia article and determine whether the the two categorical variables are independent. The Wikipedia article gives the table below as an example [1], stating the Chi-squared value based on it is approximately 24.6 . 
+* Task 2: Using scipy.stats package, I verify the value of the Chi-squared Test published in a Wikipedia article and determine whether the two categorical variables are independent. The Wikipedia article gives the table below as an example [1], stating the Chi-squared value based on it is approximately 24.6 . 
 
   ![Wiki table](https://github.com/pcaulfie/sqrt2/blob/main/images/table.PNG)
 
